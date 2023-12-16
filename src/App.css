@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+canvas{
+    
+    height: calc(100vh - 16vh);
+    width: 100vw;
+}
